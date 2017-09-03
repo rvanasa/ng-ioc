@@ -1,7 +1,9 @@
 # ng-ioc
 #### IoC for AngularJS (1.x) modules.
 
-This module uses `require.context` to automatically configure an AngularJS module based on file extensions in the provided directory.
+This package automatically configures an AngularJS module based on file extensions in the provided directory.
+
+Note that `ng-ioc` is intended to be used in Webpack-style environments, as it uses `require.context` to search for injectables.
 
 ## Example setup:
 
