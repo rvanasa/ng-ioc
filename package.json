@@ -1,0 +1,11 @@
+{
+  "name": "ng-ioc",
+  "version": "0.1.0",
+  "description": "IoC for AngularJS (1.x) modules",
+  "main": "index.js",
+  "repository": "rvanasa/ng-ioc",
+  "author": "Ryan Vandersmith <ryanvandersmith@gmail.com>",
+  "dependencies": {
+    "camelize": "^1.0.0"
+  }
+}
